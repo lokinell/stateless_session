@@ -1,0 +1,8 @@
+?? 13, 2014 9:09:47 ?? org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+?? 13, 2014 9:09:48 ?? org.apache.catalina.core.ApplicationContext log
+INFO: Initializing log4j from [classpath:log4j/log4j.xml]
+?? 13, 2014 9:09:48 ?? org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring root WebApplicationContext
+?? 13, 2014 9:09:57 ?? org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stateless-session'
